@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33691108166",
+    "project_id": "flutter-firebase-messagi-460cc",
+    "storage_bucket": "flutter-firebase-messagi-460cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33691108166:android:c93d9fcc55b3277162db47",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_messaging_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33691108166-f9qf6f1bed3tacs4o57u8m04fuvcc7gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZ0oYOIyzkDJwQOMkwpdLfWFZUYYMbWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33691108166-f9qf6f1bed3tacs4o57u8m04fuvcc7gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
